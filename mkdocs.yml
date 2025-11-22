@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Arcadia Setting Wiki
 
 theme:
     name: 'material'
@@ -51,14 +51,14 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - blog
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+  # - blog
+  # - rss:
+  #    match_path: blog/posts/.* 
+  #    date_from_meta:
+  #      as_creation: date
+  #    categories:
+  #      - categories
+  #      - tags
 
 extra_javascript:
   - javascripts/mathjax.js
