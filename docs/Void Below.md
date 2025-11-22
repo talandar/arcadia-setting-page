@@ -1,0 +1,3 @@
+The void below is a dark mass of swirling clouds and vortices far below the various floating continents.  The winds, blown debris, and wild magic of this layer of the sky constitutes and effectively impassible barrier.  No ship, research vessel, or individual has ever passed beneath the Void Below to see what was beneath even that.  Contact with the void below shreds ships to pieces nearly as fast as they can lower (or, more often, fall) in.
+
+Every decade or so, some brilliant scientist or researcher claims to have discovered an alloy, or an enchantment, or something that would allow passage through to whatever is below.  None have yet succeeded.
