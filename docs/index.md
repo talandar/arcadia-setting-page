@@ -8,10 +8,15 @@ This is a work in progress.  Anytime you see pairs of brackets with text in them
 Ten large floating continents hover over a [[Void Below]], each elementally charged.  [[Airship]]s are the only way of travel between continents.
 ### [[Acid Wastes]]
 **Element**: Acid
+
 **Associated Color**: Purple
+
 **People:** None
+
 **Terrain:** Blasted rock, acid pools  
+
 **Government:** None
+
 
 The acid wastes are an extremely inhospitable rocky plains, with pools of acidic water fed by frequent acid rains.  Clouds of toxic gas rise from the rock at random, and monsters stalk the terrain, looking for food.  The only sign of civilization here is an ancient, magically-reinforced abandoned penitentiary on the northern coast that no extant nation takes credit for. 
 
