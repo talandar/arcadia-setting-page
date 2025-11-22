@@ -2,6 +2,8 @@ The world of Arcadia is made up of islands that float in the air.  The islands a
 
 First, an [[above the table note]] on the setting.  Not required reading, but may be helpful for understanding why the setting is how it is.
 
+This is a work in progress.  Anytime you see pairs of brackets with text in them `[[Page Name]]` that is an unfinished page that will hopefully appear soon.
+
 ## The Floating Continents
 Ten large floating continents hover over a [[Void Below]], each elementally charged.  [[Airship]]s are the only way of travel between continents.
 ### [[Acid Wastes]]
