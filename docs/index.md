@@ -94,7 +94,7 @@ The Thundering Storm is a vast area of cyclones, high winds, flying debris, and 
 A quirk of physics caused by the elemental crystal at the center of Xelsoan allows the people here to create perpetual energy machines. This has led to a technological revolution here, with effectively free mechanical energy being used to power everything from water pumps to mechanical guardians. Xelsoan is a metropolitan place - probably the most well-mixed country in all of Arcadia, and practically every even semi-civilized race is represented here. This mixing of people, ideas, and plentiful energy has allowed Xelsoan to be one of the most socially and technologically advanced countries in Arcadia.  
 
 ## The People
-In the Arcadian setting, some Ancestries have slightly different lore than as written in the **Draw Steel: Heroes** book.
+In the Arcadian setting, some Ancestries have slightly different lore than as written in the **Draw Steel: Heroes** book.  Additionally, there are some extra Ancestries that one could choose.
 
 ### [[Devil]]
 Largely as default.  There are enough Devils on Arcadia that are second, third, or later generation native Arcadians that most people do not assume a given Devil has any connection to the [[Seven Cities of Hell]].  Found all throughout Arcadia.
@@ -120,3 +120,6 @@ Polder are not as well integrated in human societies, being more closely intertw
 A true Revenant is rare, but do exist in Arcadia.  Significantly more common are the Deathless of Thellonde, which are commonly "created" by ritual by the government there.  See the Deathless page for details.  Both use the same ancestry rules.  Deathless from ancestries that are not High Elfs are rare.
 ### [[Time Raider]]
 Time Raiders are currently unknown on Arcadia, though there are a few places they could appear.  If you wish to play a Time Raider, ask!
+
+[[Catfolk]]
+The Catfolk of Arcadia are known for their shrewd business sense and are most commonly found in [[Xelsoan]]
