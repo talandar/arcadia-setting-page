@@ -8,3 +8,6 @@
 | 1,000 BC to 500 BC | Rise of the [[Baranthean Empire]]     | Based out of what is now [[The Thundering Storm]], the Baranthean empire was an imperialist force that took nominal control over the various other nations. |
 | 20 BC to 0         | Unrest in Baranthean Empire           | A number of rebellions, both within the borders of the empire and the various vassal states strain the Empire's ability to control their lands.             |
 | 0                  | The [[Calamity Event]]                | A destructive event that entirely removed the continent that was once at the center of The Thundering Storm, and shattered the empire.                      |
+| 3 ACE to 100 ACE   | Rise of new continental countries     | With their previous imperial control missing, continent-spanning countries begin forming in the power vacuum                                                |
+|                    |                                       |                                                                                                                                                             |
+

@@ -51,6 +51,16 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - mkdocs-replace-markdown:
+      - patterns:
+          - replace_dead_links_left: "name"
+            url: ""
+            oldvalue: "[["
+            newvalue: ""
+          - replace_dead_links_right: "name"
+            url: ""
+            oldvalue: "]]"
+            newvalue: ""
   # - blog
   # - rss:
   #    match_path: blog/posts/.* 
@@ -62,8 +72,5 @@ plugins:
 
 extra_javascript:
   - javascripts/mathjax.js
-  - javascripts/linkstrip.js
-  - javascripts/linkstrip.mjs
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
