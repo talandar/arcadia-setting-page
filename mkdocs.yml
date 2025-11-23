@@ -51,7 +51,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - mkdocs-replace-markdown:
+  - mkdocs_replace_markdown:
       patterns:
         - replace_dead_links_left: "name"
           url: ""
