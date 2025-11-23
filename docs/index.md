@@ -4,6 +4,8 @@ First, an [[above the table note]] on the setting.  Not required reading, but ma
 
 This is a work in progress.  Anytime you see pairs of brackets with text in them `[[Page Name]]` that is an unfinished page that will hopefully appear soon.
 
+Arcadia has a reasonably deep [[Arcadian Timeline|Timeline]] of events, and a simple [[Arcadian Calendar|Calendar System]].
+
 ## The Floating Continents
 Ten large floating continents hover over a [[Void Below]], each elementally charged.  [[Airship]]s are the only way of travel between continents.
 ### [[Acid Wastes]]
@@ -85,7 +87,7 @@ Thellonde is a powerful elvish kingdom that lives in a land where the dead occas
 - **Terrain:** Small islands, rocky
 - **Government:** None
 
-The Thundering Storm is a vast area of cyclones, high winds, flying debris, and other dangers. There are a few settlement worthy islands on the borders of the Storm, and they are almost all populated by pirates, brigands, and other lowlifes. No country claims the thundering storm, as even if there were valuable resources here, it would be difficult to extract them.  Stories told by [[Orc]] clans tell of a continent that was here, ruled and owned by the orcs, that was destroyed thousands of years ago in an unknown disaster.
+The Thundering Storm is a vast area of cyclones, high winds, flying debris, and other dangers. There are a few settlement worthy islands on the borders of the Storm, and they are almost all populated by pirates, brigands, and other lowlifes. No country claims the thundering storm, as even if there were valuable resources here, it would be difficult to extract them.  There was once a continent and powerful empire here, before the [[Calamity Event]] changed things.
 
 ### [[Xelsoan]]
 - **Element**: Gravity, Force
@@ -116,9 +118,9 @@ As written.  Found Everywhere.
 ### [[Memonek]]
 Mostly as written, but extremely rare.  The Memonek were unknown a century ago, but have been appearing with more and more frequency.  Often appear in Arcadia proper because they were sent on a specific quest by "higher beings"
 ### [[Orc]]
-Largely as written.  Orcs are a people in diaspora, forming communities within all the various countries. 
+Largely as written.  Orcs are a people in diaspora, forming communities within all the various countries. Once leaders of the [[Baranthean Empire]], before it's fall.
 ### [[Polder]]
-Polder are not as well integrated in human societies, being more closely intertwined with dwarfish society.  There are Polder groups everywhere, but the largest is in Brunhild.
+Polder are not as well integrated in human societies, being more closely intertwined with dwarfish society.  There are Polder groups everywhere, but the largest is in Brunhild, followed closely by Pyrrhus.
 ### [[Revenant]] (but also [[Deathless]])
 A true Revenant is rare, but do exist in Arcadia.  Significantly more common are the Deathless of Thellonde, which are commonly "created" by ritual by the government there.  See the Deathless page for details.  Both use the same ancestry rules.  Deathless from ancestries that are not High Elfs are rare.
 ### [[Time Raider]]
