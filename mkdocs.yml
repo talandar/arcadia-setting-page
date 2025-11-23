@@ -53,11 +53,11 @@ plugins:
   - roamlinks
   - replace_markdown:
       patterns:
-        - replace_dead_links_left: "name"
+        - pattern_1: "replace_dead_links_left"
           url: ""
           oldvalue: "[["
           newvalue: ""
-        - replace_dead_links_right: "name"
+        - pattern_2: "replace_dead_links_right"
           url: ""
           oldvalue: "]]"
           newvalue: ""
