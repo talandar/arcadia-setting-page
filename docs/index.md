@@ -2,7 +2,7 @@ The world of Arcadia is made up of islands that float in the air.  The islands a
 
 First, an [[above the table note]] on the setting.  Not required reading, but may be helpful for understanding why the setting is how it is.
 
-This is a work in progress.  Anytime you see pairs of brackets with text in them `[[Page Name]]` that is an unfinished page that will hopefully appear soon.
+This is a work in progress. More Pages and links to those pages will appear over time
 
 Arcadia has a reasonably deep [[Arcadian Timeline|Timeline]] of events, and a simple [[Arcadian Calendar|Calendar System]].
 
