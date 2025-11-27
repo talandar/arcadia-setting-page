@@ -2,7 +2,7 @@ Thellonde is a powerful elvish kingdom that lives in a land where the dead occas
 
 | Basic Stats           |                                |
 | --------------------- | ------------------------------ |
-| **Capital**           | Highmount                      |
+| **Capital**           | [[Highmount]]                  |
 | **Demonym**           | Thell                          |
 | **Government System** | Monarchy                       |
 | **Head of State**     | [[Ellarial Alathil]]           |
