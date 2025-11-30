@@ -1,4 +1,4 @@
-Brunhild is a continent where the surface is constantly blasted by lightning.
+Brunhild is a continent where the surface is constantly blasted by lightning, resulting in the clans of Dwarves and Polder here bunkering down in sprawling cavern cities dug out of the rock of the continent.  Within, they research, and brew, and drink, and generally push the overall level of technological innovation of Arcadia forward, one explosion at a time.
 
 | Basic Stats           |                                      |
 | --------------------- | ------------------------------------ |
@@ -8,6 +8,8 @@ Brunhild is a continent where the surface is constantly blasted by lightning.
 | **Head of State**     | [[Magne Eliassen]]                   |
 | **Exports**           | [[Chargestsone]], Metals, Alcohol    |
 | **Imports**           | Food, Wood                           |
+| Crystal Color         | Yellow                               |
+| Element               | Lightning                            |
 
 ### Demography and Population
 
