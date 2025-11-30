@@ -24,12 +24,13 @@ Until quite recently, the Celestian government was a two-house system where a Ci
 Even before the People's Rebellion, the Celestian army was weak, and The Rebellion has further weakened Celestian military power.  Perhaps thankfully, Celestia is poor in natural resources, and there's very little reason for other nations to take advantage of the current state of disarray.
 
 ### Religion
-All the major gods, and the majority of the less important gods of Arcadia keep their center of power here.  The most devout worshippers of the various churches are found here or travel here in order to rise up the ranks of their church. 
+
+All the major gods, and the majority of the less important gods of Arcadia keep their center of power here.  The most devout worshipers of the various churches are found here or travel here in order to rise up the ranks of their church.  Walking the streets of the larger Celstian towns can be an overwhelming affair, as it is extremely common for street corners to be occupied by preachers attempting to convert passers by to whatever deity they worship.  This has been less common in recent years, as the fall of the previous government means the churches are less in contention with each other to secure votes in the conclave of churches.
 
 
 ### Agriculture & Industry
 
-
+Celestian lands are not particularly suitable for farming.  The rocky soil here is poor in nutrients, but rich in minerals both magical and mundane.  Mining is one of the prime industries, and the magical materials that come from Celestia's quarries often stay in-nation to be sent to the churches to make magical or holy objects that are then sold off for a high premium.  Celestian healing potions, for example, are the standard against which those crafted elsewhere are judged.
 
 ### Education
 
