@@ -34,7 +34,8 @@ Celestian lands are not particularly suitable for farming.  The rocky soil here 
 
 ### Education
 
-
+Celestian education follows a reasonably familiar model:  free state mandated lower education, and a system of self-paid higher education institutions.  Celestians out of the state mandated lower education system are ready to enter many available jobs, and the system does a good job of finding those with, for example, innate magical talents, or the like.
 
 ### Technological Level
 
+Technologically, Celestia is behind in some areas - without the natural magical environment for something like for [[Wound Spring]]s from [[Xelsoan]], or [[Chargestone]] from [[Brunhild]], Celestia largely gets by on [[Crystal Ritual]] magic and technological imports.

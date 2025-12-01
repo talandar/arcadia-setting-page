@@ -6,7 +6,7 @@ Brunhild is a continent where the surface is constantly blasted by lightning, re
 | **Demonym**           | Brun, Brunhildi                      |
 | **Government System** | Multi-Level Representative Democracy |
 | **Head of State**     | [[Magne Eliassen]]                   |
-| **Exports**           | [[Chargestsone]], Metals, Alcohol    |
+| **Exports**           | [[Chargestone]], Metals, Alcohol     |
 | **Imports**           | Food, Wood                           |
 | Crystal Color         | Yellow                               |
 | Element               | Lightning                            |

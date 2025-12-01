@@ -10,14 +10,14 @@ This setting was first played in late 2019, in a DND5e game that would last unti
 ### People
 Several "races" do not have equivalent "ancestries".  In particular, Tabaxi, which were fairly prominent in the initial game.  Tabaxi - [[Catfolk]] will remain in the setting.  If a player desires to play one, we'll find some homebrew and make it work.
 
-The flavor of various ancestries in Draw Steel has also changed to better fit this setting as I had imagined it. Most notably, [[Polder]] are not as integrated into human society as indicated in the book (but instead with Dwarves), and [[Revenant]]s have a second way to come into being, a ritual perfected by the high elves of [[Thellonde]].
+The flavor of various ancestries in Draw Steel has also changed to better fit this setting as I had imagined it. Most notably, [[Polder]] are not as integrated into human society as indicated in the book (but instead with Dwarves), and [[Revenant]]s have a second way to come into being, a ritual perfected by the high elves of [[Thellonde]] that creates a [[Deathless]].
 
 ### Previous Events
-The [[100-hours war]] was the climax of the long campaign where this setting was first used.   the players confronted an Elder Brain in the Hollows, triggering the long-running plans of the BBEG, which had taken 
+The [[100-hours war]] was the climax of the long campaign where this setting was first used.   the players confronted an Elder Brain in the Hollows, ending it's plans for world domination.
 
 
 
 ## Inspiration List/Influential Media
 - Skies of Arcadia (Videogame)
-- Stormlight Archives (Book Series)
+- Stormlight Archives book series, and in general, the cosmology of the Cosmere setting by Brandon Sanderson
 - Xenoblade Chronicles (Videogame series)
