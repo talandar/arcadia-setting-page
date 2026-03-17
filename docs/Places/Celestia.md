@@ -1,4 +1,4 @@
-Celestia is the country of the gods.  A place where each of the [[Gods]], small and large has large temples and, until recently, political representation in the 
+Celestia is the country of the gods.  A place where each of the [[Gods]], small and large has large temples and, until recently, political representation in the government.
 
 | Basic Stats           |                         |
 | --------------------- | ----------------------- |
@@ -21,7 +21,7 @@ Until quite recently, the Celestian government was a two-house system where The 
 
 ### Military
 
-Even before the People's Rebellion, the Celestian army was weak, and The Rebellion has further weakened Celestian military power.  Perhaps thankfully, Celestia is poor in natural resources, and there's very little reason for other nations to take advantage of the current state of disarray.
+Even before the People's Rebellion, the Celestian army was weak, and The Rebellion has further weakened Celestian military power.  Perhaps thankfully, Celestia is poor in natural resources, and there's little reason for other nations to take advantage of the current state of disarray.
 
 ### Religion
 
