@@ -125,5 +125,5 @@ A true Revenant is rare, but do exist in Arcadia.  Significantly more common are
 ### [[Time Raider]]
 Time Raiders are currently unknown on Arcadia, though there are a few places they could appear.  If you wish to play a Time Raider, ask!
 
-[[Catfolk]]
-The Catfolk of Arcadia are known for their shrewd business sense and are most commonly found in [[Xelsoan]]
+### [[Catfolk]]
+The Catfolk of Arcadia are known for their shrewd business sense and are most commonly found in [[Xelsoan]].  Lacking an official ancestry, one interested in playing a Catfolk will require some homebrew.
