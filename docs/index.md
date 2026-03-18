@@ -4,7 +4,7 @@ First, an [[above the table note]] on the setting.  Not required reading, but ma
 
 This is a work in progress. More Pages and links to those pages will appear over time
 
-Arcadia has a reasonably deep [[Arcadian Timeline|Timeline]] of events, and a simple [[Arcadian Calendar|Calendar System]].
+Arcadia has a reasonably deep [[Arcadian Timeline|Timeline]] of events, and a simple [[Arcadian Calendar|Calendar System]].  Religion on arcadia is described in [[The Gods]]
 
 ## The Floating Continents
 Ten large floating continents hover over a [[Void Below]], each elementally charged.  [[Airship]]s are the only way of travel between continents.
