@@ -1,4 +1,4 @@
-Pyros is the god of the forge and the hearth, and of order. A somewhat conservative god who resists change for change's sake, preferring instead a neat and orderly traditional life for their followers. Often worshiped by those who care more about others than about themselves, Pyros' order to protect others has lead to a large order of questing paladins, called [[Forgebringer|Forgebringers]] who roam the countries of Arcadia helping those in need and bringing the word and lore of Pyros to those who are lost.
+Pyros is the god of the forge and the hearth, and of order. A somewhat conservative god who resists change for change's sake, preferring instead a neat and orderly traditional life for their followers. Often worshiped by those who care more about others than about themselves, Pyros' order to protect others has lead to a large order of questing paladins, called Forgebringers who roam the countries of Arcadia helping those in need and bringing the word and lore of Pyros to those who are lost.
 
 ### Divine Symbols & Sigils
 Forge Hammer
