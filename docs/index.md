@@ -60,7 +60,7 @@ Until very recently, The Hollows was largely inaccessible due to a persistent ps
 - **Terrain:** Desert, Mountains
 - **Government:** Hereditary Monarchy
 
-Pyrrhus is a mountainous, desert island with a large, active volcano at the center.  The mountainous terrain has significant metal and [[firestone]] deposits, and is prosperous as a result.  Pyrrhus suffered most after the [[100-hours war]], when many of the top politicians and buracrats were revealed to have been under control of the Abomination from the hollows.  The new king, thankfully, is well liked and was spared any blowback from his father's corruption.  Most buildings in Pyrrhus are of mud brick or mortared stone, for insulation from the desert heat.
+Pyrrhus is a mountainous, desert island with a large, active volcano at the center.  The mountainous terrain has significant metal and [[firestone]] deposits, and is prosperous as a result.  Pyrrhus suffered most after the [[100-hours war]], when many of the top politicians and bureaucrats were revealed to have been under control of the Abomination from the hollows.  The new king, thankfully, is well liked and was spared any blowback from his father's corruption.  Most buildings in Pyrrhus are of mud brick or mortared stone, for insulation from the desert heat.
 
 ### [[Silvius]]
 - **Element**: Poison
