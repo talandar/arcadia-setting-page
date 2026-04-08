@@ -1,0 +1,3 @@
+Chargestone is the commonly-used name for a group of items constructed primarily of yellow [[Elemental Crystal|lesser elemental crystals]] and a tightly guarded alchemical mixture wrapped in a steel casing with two contacts that provide pure elemental lightning in a way that is almost entirely safe when handled with sufficient care.
+
+Produced only in [[Brunhild]], Chargestone is a major export.  Although chargestone is technically rechargeable, one needs a special apparatus and a source of raw lightning energy.  Generally, within Brunhild, this is simple and cheap, thanks to the near-constant electrical storms, but the farther one strays from the country of lightning, the more costly it is to renew.
